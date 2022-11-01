@@ -2,7 +2,7 @@
 
 All notable changes to `laravel-duplicate` will be documented in this file
 
-## 4.0.0 - 2022/01/11
+## 6.0.0 - 2022/01/11
 
 - Transferred ownership to the [BFG](https://github.com/bfg-s) organisation
 - Changed package name in `composer.json` file from `neurony/laravel-duplicate` to `bfg/eloquent-duplicate`
