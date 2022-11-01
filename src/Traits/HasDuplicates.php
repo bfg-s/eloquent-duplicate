@@ -1,20 +1,20 @@
 <?php
 
-namespace Neurony\Duplicate\Traits;
+namespace Bfg\Duplicate\Traits;
 
 use Closure;
 use Exception;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\DB;
-use Neurony\Duplicate\Helpers\RelationHelper;
-use Neurony\Duplicate\Options\DuplicateOptions;
+use Bfg\Duplicate\Helpers\RelationHelper;
+use Bfg\Duplicate\Options\DuplicateOptions;
 
 trait HasDuplicates
 {
     /**
      * The container for all the options necessary for this trait.
-     * Options can be viewed in the Neurony\Duplicate\Options\DuplicateOptions file.
+     * Options can be viewed in the Bfg\Duplicate\Options\DuplicateOptions file.
      *
      * @var DuplicateOptions
      */

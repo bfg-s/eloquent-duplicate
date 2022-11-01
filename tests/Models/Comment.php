@@ -1,6 +1,6 @@
 <?php
 
-namespace Neurony\Duplicate\Tests\Models;
+namespace Bfg\Duplicate\Tests\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

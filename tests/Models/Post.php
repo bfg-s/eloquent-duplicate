@@ -1,10 +1,10 @@
 <?php
 
-namespace Neurony\Duplicate\Tests\Models;
+namespace Bfg\Duplicate\Tests\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use Neurony\Duplicate\Options\DuplicateOptions;
-use Neurony\Duplicate\Traits\HasDuplicates;
+use Bfg\Duplicate\Options\DuplicateOptions;
+use Bfg\Duplicate\Traits\HasDuplicates;
 
 class Post extends Model
 {

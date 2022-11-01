@@ -1,5 +1,5 @@
 {
-    "name": "coliving/laravel-duplicate",
+    "name": "bfg/eloquent-duplicate",
     "description": "Duplicate any Eloquent model along with its underlying relationships",
     "license": "MIT",
     "keywords": [
@@ -18,6 +18,11 @@
             "name": "Dzung Nguyen",
             "email": "dungnh@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "Xsaven",
+            "email": "bfg.script@gmail.com",
+            "role": "Developer"
         }
     ],
     "require": {
@@ -32,12 +37,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Neurony\\Duplicate\\": "src/"
+            "Bfg\\Duplicate\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Neurony\\Duplicate\\Tests\\": "tests"
+            "Bfg\\Duplicate\\Tests\\": "tests"
         },
         "classmap": [
             "tests/TestCase.php"
