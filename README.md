@@ -21,7 +21,7 @@ Relationship types that can and will make sense to be duplicated: `hasOne`, `mor
 Install the package via Composer:
 
 ```
-composer require coliving/laravel-duplicate
+composer require bfg/eloquent-duplicate
 ```
 
 ### Usage
