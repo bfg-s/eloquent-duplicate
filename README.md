@@ -254,7 +254,7 @@ class YourModel extends Model
 
 ### Credits
 
-- [Andrei Badea](https://github.com/zbiller)
+- [BFG](https://github.com/bfg-s)
 - [All Contributors](../../contributors)
 
 ### Security
